@@ -1,6 +1,6 @@
 ﻿# Tecnologias
  
- 🔧 HTML, CSS, JavaScript, React Native
+ 🔧 HTML, CSS, JavaScript e React Native
  
  # Sobre
  
